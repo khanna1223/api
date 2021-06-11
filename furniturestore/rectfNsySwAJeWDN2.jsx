@@ -1,0 +1,139 @@
+{
+"id": "rectfNsySwAJeWDN2",
+"stock": 5,
+"price": 234999,
+"shipping": true,
+"featured": true,
+"colors": [
+"#ffb900",
+"#ff0000"
+],
+"category": "kitchen",
+"images": [
+{
+"id": "attiDFaaWPfwKl4td",
+"url": "https://dl.airtable.com/.attachments/2581b1487fb0dd13c4abea9274f72f25/9304207f/pexels-dominika-roseclay-1139785.jpg",
+"filename": "pexels-dominika-roseclay-1139785.jpg",
+"size": 203105,
+"type": "image/jpeg",
+"thumbnails": {
+"small": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/3fe189fc65eb2ffaf6f0e378b061fc86/689a8b1b",
+"width": 24,
+"height": 36
+},
+"large": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/e8c2f821d05b9e4e5aa450a19e62ffa5/271fc3f5",
+"width": 512,
+"height": 756
+},
+"full": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/8ff12aa9815caaf0f74be2cc412b537d/fa7a1f68",
+"width": 3000,
+"height": 3000
+}
+}
+},
+{
+"id": "attUaphNQKvkYAD1s",
+"url": "https://dl.airtable.com/.attachments/fd71dfd92540388a86553657e3d7d740/faadea06/extra-1.jpeg",
+"filename": "extra-1.jpeg",
+"size": 102108,
+"type": "image/jpeg",
+"thumbnails": {
+"small": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/c38b793c1cc5386fbff2312555a7b54c/0db7abd2",
+"width": 54,
+"height": 36
+},
+"large": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/c78fa03230949ea162cdecccc41eb330/972ad12a",
+"width": 768,
+"height": 512
+},
+"full": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/21cc17d2e439f1d8263001c1162a96d9/c2c5ece2",
+"width": 3000,
+"height": 3000
+}
+}
+},
+{
+"id": "attFKjks3xBxAXFG3",
+"url": "https://dl.airtable.com/.attachments/24680eff55203fd4b98bb5925eea1b9d/05cffb83/extra-2.jpeg",
+"filename": "extra-2.jpeg",
+"size": 84418,
+"type": "image/jpeg",
+"thumbnails": {
+"small": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/d764d10469f315e7c630f2a0d75701e7/3b40ce40",
+"width": 50,
+"height": 36
+},
+"large": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/d8319515c759325f6255394fab99e387/fa5553b5",
+"width": 717,
+"height": 512
+},
+"full": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/c1493fdb32598cea9379d536d198db92/cc7fdcdd",
+"width": 3000,
+"height": 3000
+}
+}
+},
+{
+"id": "atti9HFy8iGNDA2jw",
+"url": "https://dl.airtable.com/.attachments/f7762eb7e7f469b5a16df46e9a728c2a/88a6950c/extra-3.jpeg",
+"filename": "extra-3.jpeg",
+"size": 107838,
+"type": "image/jpeg",
+"thumbnails": {
+"small": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/12d47498c88f7bb2781fa36716022b44/997e2a09",
+"width": 55,
+"height": 36
+},
+"large": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/31c44c6e79518113e49770b125b15ff1/bf85061f",
+"width": 788,
+"height": 512
+},
+"full": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/493e11c9cf086bfbfcd8e812b9b08f9a/87fe37ec",
+"width": 3000,
+"height": 3000
+}
+}
+},
+{
+"id": "attxt3F3OznL1Cxh8",
+"url": "https://dl.airtable.com/.attachments/2c4919da94867198d749d2e2a9adc3a7/4475c599/extra-4.jpeg",
+"filename": "extra-4.jpeg",
+"size": 99481,
+"type": "image/jpeg",
+"thumbnails": {
+"small": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/266fe245a48c808535df293146d397b3/4f3d36e7",
+"width": 54,
+"height": 36
+},
+"large": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/4647162095d4d7982a269c43170de895/292a2006",
+"width": 768,
+"height": 512
+},
+"full": {
+"url": "https://dl.airtable.com/.attachmentThumbnails/0da674831a15603e5c71348442f8e5af/ee4bb3eb",
+"width": 3000,
+"height": 3000
+}
+}
+}
+],
+"reviews": 35,
+"stars": 3.4,
+"name": "wooden table",
+"description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+"company": "caressa"
+}
